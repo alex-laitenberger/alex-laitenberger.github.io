@@ -15,7 +15,7 @@ title: "Alex Laitenberger"
 
 ## AI / NLP Research
 
-I'm a researcher in Natural Language Processing with a focus on language models, retrieval-augmented generation (RAG), and agentic multi-step reasoning pipelines. I recently co-authored a Stanford-affiliated preprint on RAG evaluation with Christopher D. Manning (Stanford) and Nelson F. Liu (OpenAI), currently under review for EMNLP 2025. My work investigates how simple, well-designed methods can outperform more complex RAG systems in long-context QA tasks, and introduces a strong baseline to support future research in advanced RAG methods.
+I'm a researcher in Natural Language Processing with a focus on language models, retrieval-augmented generation (RAG), and agentic multi-step reasoning pipelines. I recently co-authored a Stanford-affiliated paper on RAG evaluation with Christopher D. Manning (Stanford) and Nelson F. Liu (OpenAI), which has been accepted to EMNLP 2025 Main. My work investigates how simple, well-designed methods can outperform more complex RAG systems in long-context QA tasks, and introduces a strong baseline to support future research in advanced RAG methods.
 
 I'm currently open to research opportunities in both academia and industry — particularly roles involving the development and training of language models, their applications in RAG systems and the design of agentic reasoning systems. Long term, I remain excited about contributing to foundational research in NLP and AI — whether through academic institutions like Stanford or top-tier AI research labs working at the frontier of language model development.
 
