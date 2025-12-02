@@ -33,17 +33,17 @@ I'm currently open to research opportunities in both academia and industry — p
 ## Publications
 
 [**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**](https://aclanthology.org/2025.emnlp-main.1656/) <br>
-Alex Laitenberger, Christopher D. Manning, Nelson F. Liu.
-In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, Suzhou, China. <br>
+**Alex Laitenberger**, [Christopher D. Manning](https://nlp.stanford.edu/~manning/), [Nelson F. Liu](https://cs.stanford.edu/~nfliu/). <br>
+In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025. <br>
 [[Code]](https://github.com/alex-laitenberger/stronger-baselines-rag)
 [[Poster]](../poster_emnlp-25.pdf)
 
 [**Expanding Horizons in RAG: Exploring and Extending the Limits of RAPTOR**](https://web.stanford.edu/class/cs224n/final-reports/256925521.pdf) <br>
-Alex Laitenberger. Stanford CS224N Course Project, 2024. <br>
+**Alex Laitenberger**. Stanford CS224N Course Project, 2024. <br>
 [[Poster]](../poster_cs224n.pdf)
 
 **Concept for Discovering Relevant Information through the Automated Analysis of News Articles** <br>
-Alex Laitenberger. Bachelor Thesis, 2011.
+**Alex Laitenberger**. Bachelor Thesis, 2011.
 
 **Evaluating Product-Market Fit for a Consumer-Oriented App Startup** <br>
-Alex Laitenberger. Master Thesis, 2018
+**Alex Laitenberger**. Master Thesis, 2018
