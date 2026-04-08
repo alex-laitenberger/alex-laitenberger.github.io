@@ -13,11 +13,13 @@ title: "Alex Laitenberger"
 
 # Alex Laitenberger
 
-## AI / NLP Research
+## AI / NLP Research — Language Model Systems, Retrieval, Evaluation
 
-I'm a researcher in Natural Language Processing with a focus on improving the truthfulness of language models, retrieval-augmented generation (RAG), agentic multi-step reasoning pipelines and fact verification systems. I recently co-authored a Stanford-affiliated paper on RAG evaluation with Christopher D. Manning (Stanford) and Nelson F. Liu (OpenAI/Stanford), which has been published at the EMNLP 2025 Main Conference in Suzhou, China. The work investigated how simple, well-designed methods can outperform more complex RAG systems in long-context QA tasks, and introduces a strong baseline to support future research in advanced RAG methods.
+I am an NLP researcher focused on improving the reliability and factual accuracy of language model systems, particularly through retrieval and evaluation.
+My recent work, conducted in collaboration with Christopher D. Manning and Nelson F. Liu, was published at EMNLP 2025. It shows that strong, well-designed RAG baselines can match or outperform more complex multi-step pipelines in long-context QA, highlighting the importance of retrieval recall.
+I am particularly interested in how models access and reason over information, including retrieval-augmented generation, evaluation design, and agentic systems.
 
-I'm currently open to research opportunities in both academia and industry — particularly roles involving the improvement of truthfulness and factual accuracy of language models, their applications in RAG, agentic reasoning, and fact verification systems. Long term, I remain excited about contributing to foundational research in NLP and AI — whether through academic institutions or top-tier AI research labs working at the frontier of language model development.
+I am currently open to research roles in industry and academia, with a focus on language model development, retrieval, evaluation, and system-level approaches to improving factuality and reliability.
 
 [[LinkedIn]](https://www.linkedin.com/in/laitenberger/) [[Google Scholar]](https://scholar.google.com/citations?user=t82LsQgAAAAJ&hl=en) [[GitHub]](https://github.com/alex-laitenberger) [[CV]](../cv.pdf)
 
@@ -34,16 +36,19 @@ I'm currently open to research opportunities in both academia and industry — p
 
 [**Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models**](https://aclanthology.org/2025.emnlp-main.1656/) <br>
 **Alex Laitenberger**, [Christopher D. Manning](https://nlp.stanford.edu/~manning/), [Nelson F. Liu](https://cs.stanford.edu/~nfliu/). <br>
-In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, Suzhou, China, 2025. <br>
+EMNLP 2025 (Main Conference), Suzhou, China, 2025. <br>
 [[Code]](https://github.com/alex-laitenberger/stronger-baselines-rag)
 [[Poster]](../poster_emnlp-25.pdf)
 
 [**Expanding Horizons in RAG: Exploring and Extending the Limits of RAPTOR**](https://web.stanford.edu/class/cs224n/final-reports/256925521.pdf) <br>
-**Alex Laitenberger**. Stanford CS224N Course Project, 2024. <br>
+**Alex Laitenberger**. <br>
+Research Project (Stanford CS224N), 2024. <br>
 [[Poster]](../poster_cs224n.pdf)
 
 **Concept for Discovering Relevant Information through the Automated Analysis of News Articles** <br>
-**Alex Laitenberger**. Bachelor Thesis, 2011.
+**Alex Laitenberger**. <br>
+Bachelor's Thesis, 2011.
 
 **Evaluating Product-Market Fit for a Consumer-Oriented App Startup** <br>
-**Alex Laitenberger**. Master Thesis, 2018
+**Alex Laitenberger**. <br>
+Master's Thesis, 2018
