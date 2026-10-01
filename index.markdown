@@ -13,15 +13,13 @@ title: "Alex Laitenberger"
 
 # Alex Laitenberger
 
-## AI / NLP Research — Language Model Systems, Retrieval, Evaluation
+## Truthfulness, Interpretability, and Language Model Systems
 
-I am an NLP researcher focused on improving the reliability and factual accuracy of language model systems, particularly through retrieval and evaluation.
-My recent work, conducted in collaboration with Christopher D. Manning and Nelson F. Liu, was published at EMNLP 2025. It shows that strong, well-designed RAG baselines can match or outperform more complex multi-step pipelines in long-context QA, highlighting the importance of retrieval recall.
-I am particularly interested in how models access and reason over information, including retrieval-augmented generation, evaluation design, and agentic systems.
+I am a PhD Fellow at the University of Copenhagen, working in the CopeNLU group under the supervision of Pepa Atanasova and Isabelle Augenstein.  
+My research interests center on understanding how language models represent and use factual information, and how these insights can contribute to more reliable and trustworthy systems. I am particularly interested in truthfulness, interpretability, and the design and understanding of language model systems.  
+My previous work, conducted in collaboration with Christopher D. Manning and Nelson F. Liu, was published at EMNLP 2025 and studied retrieval-augmented generation for long-context question answering. It showed that strong, structure-preserving RAG baselines can match or outperform more complex multi-stage approaches, and introduced a simple baseline for more rigorous RAG methodology research.
 
-I am currently open to research roles in industry and academia, with a focus on language model development, retrieval, evaluation, and system-level approaches to improving factuality and reliability.
-
-[[LinkedIn]](https://www.linkedin.com/in/laitenberger/) [[Google Scholar]](https://scholar.google.com/citations?user=t82LsQgAAAAJ&hl=en) [[GitHub]](https://github.com/alex-laitenberger) [[CV]](../cv.pdf)
+[[LinkedIn]](https://www.linkedin.com/in/laitenberger/) [[Google Scholar]](https://scholar.google.com/citations?user=t82LsQgAAAAJ&hl=en) [[GitHub]](https://github.com/alex-laitenberger)
 
 <div style="text-align: left;">
   <img src="../email.png" alt="email" style="max-width: 200px" />
